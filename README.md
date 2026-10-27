@@ -2,4 +2,4 @@
   
   ![Talabat Clone Script](https://admin.ninjascode.com/wp-content/uploads/2025/repoImages/margaret/Talabat%20Clone%20Script.webp) 
   
-  The Talabat Clone Script frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://onboarding.enatega.com/register/?utm_source=github&utm_medium=repo&utm_campaign=margaret-talabat-clone-script" target="_blank">click here</a>.
+  The Talabat Clone Script frontend source code for our solution is completely open source. However, the API and backend is proprietary and can be accessed via a paid license. For more details, <a href="https://enatega.com/?utm_source=github&utm_medium=repo&utm_campaign=margaret-talabat-clone-script" target="_blank">click here</a>.
